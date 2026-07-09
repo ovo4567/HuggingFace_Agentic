@@ -1,0 +1,38 @@
+# Core LangGraph / LangChain stack
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-text-splitters
+
+# RAG / vector search / embeddings
+chromadb
+faiss-cpu
+sentence-transformers
+datasets
+huggingface_hub
+duckduckgo-search
+
+# LlamaIndex notebooks
+llama-index
+
+# Smolagents notebooks
+smolagents
+diffusers
+
+# Local tool / browser / media dependencies
+torch
+torchvision
+numpy
+requests
+Pillow
+selenium
+helium
+
+# Notebook and environment support
+python-dotenv
+ipython
+ipykernel
+jupyter
